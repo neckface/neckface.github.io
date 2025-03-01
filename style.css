@@ -1,0 +1,106 @@
+#logo {
+
+    text-align: center;
+}
+#obere {
+    background-color: #FAD7B5;
+ 
+    left: 0;
+    top: 0;
+    width: 100%;
+
+    color: white;
+    text-align: center;
+}
+.navbar-nav {
+    text-align: center;
+}
+#untere{
+    background-color: #D9D9D9;
+}
+#background {
+    background-color: #fdf8f4;
+    
+}
+h2 {
+    font-family: "Roboto", serif;
+
+}
+#maintext {
+    font-family: "Roboto" , serif;
+    font-size: 370%;
+
+    padding-top: 50%;
+
+
+}
+.section {
+    background-color: #fdf8f4;
+  }
+#untereBlock{
+    padding: 1%;
+    background-color: hsl(27, 45%, 80%);
+}
+
+#mainpic {
+    width: 100%;
+    height: 100%;
+
+}
+
+
+#mainbutton {
+    border-radius: 40px;
+}
+
+
+
+#pic2{
+
+    width: 100%;
+    height: 100%;
+
+}
+  
+
+#textwarumwir{
+    padding-top: 3%;
+}
+
+
+img {
+    border-radius: 30px;
+}
+
+.btn:hover{
+    background-color:#fcfbfa;
+  color: black;
+  cursor: pointer;
+}
+
+#textcenter{
+    text-align: center;
+}
+.textcol {
+    list-style-type: none
+}
+.title{
+    font-weight: 700;
+
+    font-size: 2.5rem;
+    line-height: 1.2;
+}
+#test{
+    background-color: #DBC9AA;
+    height: 1079px;
+}
+.color{
+    background-color: #EDE3D9 ;
+}
+.cardfaq{
+    background-color: #EED9C3;
+}
+#picpreise{
+    height: 80%;
+
+}
